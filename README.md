@@ -5,6 +5,8 @@ This is a project that was put together with HTML, JavaScript and CSS to get fam
 First download the three files included in this repo into your own repository. Make sure all three are located in the same place.
 Next, open the index.html file in a browser window. 
 An eye should appear that follows your mouse as long as it's on the screen
+#Future changes
+I would like to add anoter eye to this project.
 # LICENSE
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
